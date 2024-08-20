@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 /final
 *.xlsx
+*.zip
+*.rar
