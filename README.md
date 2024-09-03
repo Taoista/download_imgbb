@@ -47,6 +47,9 @@ pip install -r requirements.txt
 The software will create a folder called 'final,' where the images will be saved.
 
 
+```sh
+python main.py
+```
 
 
 
